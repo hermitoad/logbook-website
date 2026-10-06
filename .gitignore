@@ -15,3 +15,6 @@ AGENTS.md
 
 # Local prototypes, not deployed
 /docs/prototypes/
+
+# Local marketing assets: repo root is the published GitHub Pages directory, must never be tracked or published
+/ads/
