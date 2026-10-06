@@ -4,6 +4,7 @@ node_modules
 
 # MOM (generated at runtime)
 .mom/
+.momos/
 .mcp.json
 .claude/
 CLAUDE.md
